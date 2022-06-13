@@ -12,7 +12,7 @@
 </div>
  
  
-   ![Snake animation](https://github.com/IcaroSantiago/IcaroSantiago/blob//github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/IcaroSantiago/IcaroSantiago/blob/output/github-contribution-grid-snake.svg) 
 
 
  
