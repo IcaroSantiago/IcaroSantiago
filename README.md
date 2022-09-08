@@ -1,6 +1,6 @@
 ### 🎮 Sobre mim
 
-- 🕹  Desenvolvedor Back-end
+- 🕹  Desenvolvedor Back-end e Analista de Testes
 - 💻 Atualmente estou estudando para me tornar um Desenvolvedor Full-Stack
 - 🎬 Sou formado em Analise e Desenvolvimento de Sistemas
 - 📈 Gosto de jogar e Desenvolver no tempo livre
