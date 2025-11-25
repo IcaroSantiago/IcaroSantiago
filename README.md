@@ -1,9 +1,16 @@
 ### 🎮 Sobre mim
 
-- 🕹  Desenvolvedor Back-end e Analista de Testes
-- 💻 Atualmente estou estudando para me tornar um Desenvolvedor Full-Stack
-- 🎬 Sou formado em Analise e Desenvolvimento de Sistemas
-- 📈 Gosto de jogar e Desenvolver no tempo livre
+🧪 Analista de Testes com experiência em projetos de grande porte no setor financeiro
+
+🧩 Atuação com testes manuais e automatizados utilizando Robot Framework, Selenium, Cypress, Postman e Appium
+
+🔧 Conhecimentos em desenvolvimento Back-end (Java, Python, PHP) e Front-end (JavaScript, React)
+
+📚 Estudando para me tornar Desenvolvedor Full-Stack
+
+🎓 Formado em ADS + duas pós-graduações na área de tecnologia
+
+🎮 No tempo livre, gosto de jogar, aprender novas ferramentas e desenvolver pequenos projetos
 
  <div>
   <a href="https://github.com/IcaroSantiago">
